@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="" alt="Smart Home-Door"/>
+  <img src="Web App/homepage/img/pilogo.png" alt="Smart Home-Door"/>
 </p>
 
 <p align="center">
