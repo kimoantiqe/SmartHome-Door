@@ -215,3 +215,23 @@ Since we already had a responsive website, thanks to Bootstrap, we just had to m
 * Then, we create a WebView Object in the main Java file to add the website url and also enable javascript.
 * Then we modified the layout to fit the website properly on the screen and also change the app logo.
 
+# :scroll: Appendix
+
+## Pi3 Circuit Diagram:
+<p align="center">
+  <img src="static/sneakPeak/sneak_peak_17.jpg" alt="Smart Home-Door"/>
+</p>
+<br>
+
+## Components List:
+|Part #|Description|Quantity used|
+|---|---|---|
+|N/A   |Raspberry Pi 3   |1   |
+|DHT-11   |Temperature-humidity Sensor   |1   |
+|TSL2561   |Digital Luminosity/Lux/Light Sensor   |1  |
+|55-A   |Electric Strike   |1   |
+|N/A   |Camera   |1   |
+|N/A   |RGB LED   |2   |
+|N/A   |LED   |6   |
+|189   |PIR Motion Sensor   |1   |
+|12642   | Sound sensor   |1   |
