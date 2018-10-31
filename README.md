@@ -4,7 +4,6 @@
 </p>
 
 <h1 align="center"> SmartHome-Door </h1>
-<br>
 
 # :pushpin: TL;DR
 # :camera: Sneak Peak
