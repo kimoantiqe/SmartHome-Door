@@ -110,10 +110,11 @@ A prior implementation was using C# for backend and xaml for frontend, along wit
 #### Further Details:
 
 <p align="center">
-  <img src="static/Description/description_4.png" alt="Smart Home-Door"/>
-  <img src="static/Description/description_5.jpg" alt="Smart Home-Door"/>
-  <img src="static/Description/description_6.jpg" alt="Smart Home-Door"/>
-  <img src="static/Description/description_7.png" alt="Smart Home-Door"/>
+  <img src="static/Description/description_4.png"  alt="Smart Home-Door"/>
+  <br>
+  <img src="static/Description/description_5.jpg" width =400 alt="Smart Home-Door"/>
+  <img src="static/Description/description_6.jpg" width =400 alt="Smart Home-Door"/>
+  <img src="static/Description/description_7.png" width =400 alt="Smart Home-Door"/>
 </p>
 <br>
 
@@ -225,9 +226,8 @@ Since we already had a responsive website, thanks to Bootstrap, we just had to m
 
 ## Components List:
 
-
 |Part #|Description|Quantity used|
-|---|---|---|
+| :---: | :---: | :---: |
 |N/A   |Raspberry Pi 3   |1|
 |DHT-11   |Temperature-humidity Sensor   |1|
 |TSL2561   |Digital Luminosity/Lux/Light Sensor   |1|
