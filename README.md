@@ -13,5 +13,23 @@
 # :pushpin: TL;DR
 # :bulb: Introduction
 # :gear: System Diagrams
+## Hardware:
+
+<p align="center">
+  <img src="static/systemDiagram/system_diagram_1.png" alt="Smart Home-Door"/>
+</p>
+<br>
+<p align="center">
+  <img src="static/systemDiagram/system_diagram_2.png" alt="Smart Home-Door"/>
+</p>
+<br>
+
+## Software:
+
+<p align="center">
+  <img src="static/systemDiagram/system_diagram_3.png" alt="Smart Home-Door"/>
+</p>
+<br>
+
 # :books: Description
 # :camera: Sneak Peak
