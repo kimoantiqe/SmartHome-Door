@@ -198,7 +198,7 @@ There are 5 main control status flags that control the overall functionality of 
 
 #### Smart Door Access Timeline Functionality: 
 <p align="center">
-  <img src="static/Description/description_12.png" alt="Smart Home-Door"/>
+  <img src="static/Description/description_12.PNG" alt="Smart Home-Door"/>
 </p>
 <br>
 
