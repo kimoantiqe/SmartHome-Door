@@ -111,8 +111,8 @@ A prior implementation was using C# for backend and xaml for frontend, along wit
 
 <p align="center">
   <img src="static/Description/description_4.png" alt="Smart Home-Door"/>
-  <img src="static/Description/description_5.png" alt="Smart Home-Door"/>
-  <img src="static/Description/description_6.png" alt="Smart Home-Door"/>
+  <img src="static/Description/description_5.jpg" alt="Smart Home-Door"/>
+  <img src="static/Description/description_6.jpg" alt="Smart Home-Door"/>
   <img src="static/Description/description_7.png" alt="Smart Home-Door"/>
 </p>
 <br>
@@ -224,14 +224,17 @@ Since we already had a responsive website, thanks to Bootstrap, we just had to m
 <br>
 
 ## Components List:
+
+
 |Part #|Description|Quantity used|
 |---|---|---|
-|N/A   |Raspberry Pi 3   |1   |
-|DHT-11   |Temperature-humidity Sensor   |1   |
-|TSL2561   |Digital Luminosity/Lux/Light Sensor   |1  |
-|55-A   |Electric Strike   |1   |
-|N/A   |Camera   |1   |
-|N/A   |RGB LED   |2   |
-|N/A   |LED   |6   |
-|189   |PIR Motion Sensor   |1   |
-|12642   | Sound sensor   |1   |
+|N/A   |Raspberry Pi 3   |1|
+|DHT-11   |Temperature-humidity Sensor   |1|
+|TSL2561   |Digital Luminosity/Lux/Light Sensor   |1|
+|55-A   |Electric Strike   |1|
+|N/A   |Camera   |1|
+|N/A   |RGB LED   |2|
+|N/A   |LED   |6|
+|189   |PIR Motion Sensor   |1|
+|12642   | Sound sensor   |1|
+
